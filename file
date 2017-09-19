@@ -3,4 +3,8 @@ this is branch dev
 This is at last version
 from lastest version
 now test no fast forward mode
+<<<<<<< HEAD
 This change come from branch master
+=======
+This change come from branch dev
+>>>>>>> dev
